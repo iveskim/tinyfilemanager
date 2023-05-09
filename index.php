@@ -1,6 +1,6 @@
 <?php
 //Default Configuration
-$CONFIG = '{"lang":"zh-CN","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+$CONFIG = '{"lang":"zh-CN","error_reporting":false,"show_hidden":false,"hide_Cols":true,"theme":"light"}';
 
 /**
  * H3K | Tiny File Manager V2.5.3
